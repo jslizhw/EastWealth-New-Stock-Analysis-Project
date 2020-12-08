@@ -1,3 +1,5 @@
+python 3
+
 from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
 from pyquery import PyQuery as pq
